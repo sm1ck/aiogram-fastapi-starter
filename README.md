@@ -1,5 +1,10 @@
 # aiogram + FastAPI Starter
 
+[![CI](https://github.com/sm1ck/aiogram-fastapi-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/sm1ck/aiogram-fastapi-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org)
+[![Used in production](https://img.shields.io/badge/used%20by-honeychat.bot-success)](https://honeychat.bot)
+
 > Production-grade starter for building a Telegram AI bot with a shared FastAPI backend. Includes aiogram (async Telegram bot), FastAPI (REST API), Redis (FSM + caching), ChromaDB (vector memory), OpenRouter (multi-LLM routing), and docker-compose wiring. Patterns extracted from [HoneyChat](https://honeychat.bot) ([@HoneyChatAIBot](https://t.me/HoneyChatAIBot)).
 
 ## Why this starter
